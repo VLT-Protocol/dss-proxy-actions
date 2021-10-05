@@ -1,3 +1,8 @@
+# Link
+
+Original repo https://github.com/makerdao/dss-proxy-actions, for fetching and merge change add new remote with command git remote add maker https://github.com/makerdao/dss-proxy-actions.
+
+
 # dss-proxy-actions
 Proxy functions to be used via ds-proxy. These functions are based on `dss-cdp-manager` as CDP registry.
 
